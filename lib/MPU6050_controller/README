@@ -1,0 +1,1 @@
+This library responsible for collecting data from gyroscope mpu6050 and returning back values for future use.
